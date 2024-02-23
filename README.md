@@ -12,9 +12,9 @@
 
 ### Project Structure: 
 
-index.html: The main HTML file for the landing page.
-styles.css: The CSS file for styling the landing page.
-images/: Directory containing images used on the landing page.
++ index.html: The main HTML file for the landing page.
++ styles.css: The CSS file for styling the landing page.
++ images/: Directory containing images used on the landing page.
 
 ### Contributing: 
 We welcome contributions from the community to improve the Excursion landing page. If you have any ideas or suggestions, feel free to submit a pull request.
